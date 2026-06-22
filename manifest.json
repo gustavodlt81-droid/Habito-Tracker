@@ -1,0 +1,31 @@
+{
+  "short_name": "Hipnosis Peso",
+  "name": "Hipnosis para Perder Peso — 35 Días",
+  "description": "Tracker diario de 35 días con hábitos conscientes para tu transformación.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#faf7f1",
+  "background_color": "#faf7f1",
+  "lang": "es"
+}
